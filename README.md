@@ -68,4 +68,4 @@ python Mineria.py
 *   `README.md`: Documentación del proyecto.
 
 ---
-Desarrollado para la asignatura de Minería de Datos.
+Desarrollado para la asignatura de Minería de Datos x Ricardo Corominas.
