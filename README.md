@@ -1,5 +1,7 @@
 # Sistema de Minería de Datos y Regresión Lineal
 
+![Captura del Sistema](Sistema%20mineria%20Datos.png)
+
 Este proyecto es una aplicación de escritorio desarrollada en Python que permite realizar análisis de minería de datos sobre conjuntos de datos inmobiliarios. Utiliza una interfaz gráfica (GUI) construida con `tkinter` para facilitar la carga, limpieza, análisis y visualización de datos.
 
 ## 🚀 Funcionalidades Principales
